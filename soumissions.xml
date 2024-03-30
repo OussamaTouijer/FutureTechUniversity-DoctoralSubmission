@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="s.xsl" type="text/xsl"?>
+<soumissions>
+  <!-- Aucune soumission pour le moment -->
+  <soumission>
+    <nom>TOUIJER</nom>
+    <prenom>OUSSAMA</prenom>
+    <date_naissance>2001-12-10</date_naissance>
+    <cin>AE291643</cin>
+    <theme>Blockchain</theme>
+    <keywords>Blockchain</keywords>
+    <mail>maroc2oussama2touijer@gmail.com</mail>
+    <phone>+212656159393</phone>
+    <adresse>HAY CHIKHE LAMFADAL RUE MATMATA N 113 SALE</adresse>
+    <abstract>Blockchain</abstract>
+    <title>Blockchain</title>
+    <supervisor>
+      <supervisor_name>Reda Oussama</supervisor_name>
+      <supervisor_mail>oussamaReda@gmail.com</supervisor_mail>
+    </supervisor>
+    <discipline>Info</discipline>
+    <specialite>iciic</specialite>
+    <institution>Université A</institution>
+  </soumission>
+</soumissions>
